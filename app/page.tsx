@@ -68,7 +68,7 @@ export default function Home() {
   return (
     <main style={{ padding: 40 }}>
       <h1>My First Website</h1>
-      <p>This is live on the internet.</p>
+      <p>This is live on the internet. Wow.</p>
     </main>
   );
 }
